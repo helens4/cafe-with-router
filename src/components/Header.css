@@ -1,0 +1,7 @@
+.header-component {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    color: brown;
+    padding: 10px;
+}
